@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="closed_text_color">#bdc3c7</color>
+    <color name="closed_background_color">#7f8c8d</color>
+    <color name="open_background_color">#ecf0f1</color>
+    <color name="activity_background">#F5F5DC</color>
+    <color name="favorite_food_item">#F7CA18</color>
+    <color name="food_item">#ecf0f1</color>
+</resources>
